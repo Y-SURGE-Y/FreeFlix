@@ -75,6 +75,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Contributing
+
+Contributions to FreeFlix are welcome. Feel free to open issues, suggest features, or submit pull requests to help improve the project.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or feedback, please feel free to contact the project maintainer
+
+
+**Disclaimer:** FreeFlix is a project created for educational purposes and is not affiliated with or endorsed by Netflix.
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
