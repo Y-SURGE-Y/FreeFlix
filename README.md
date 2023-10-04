@@ -1,6 +1,6 @@
 # FreeFlix - A Netflix Clone
 
-![FreeFlix Logo](https://your-website.com/path-to-your-logo.png)
+![FreeFlix Logo]([https://your-website.com/path-to-your-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbranditechture.agency%2Fbrand-logos%2Fdownload%2Fnetflix%2F&psig=AOvVaw2NfCddKb8jmLJIjgWryjXj&ust=1696540661430000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDPrs2o3YEDFQAAAAAdAAAAABAE))
 
 **FreeFlix** is a web application that replicates the popular streaming platform Netflix. It is built using HTML, CSS, JavaScript, React.js, Axios for API requests, Tailwind CSS for styling, and Firebase for hosting. You can access the live demo at [https://freeflix-b18ef.web.app/](https://freeflix-b18ef.web.app/).
 
